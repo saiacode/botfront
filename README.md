@@ -15,9 +15,7 @@
 </p>
 <br />
 
-<H1 align="center">
-    This project is not maintained anymore and will not receive further updates.
-</H1>
+
 
 <p align="center">
   <a href="#highlights">Highlights</a> •
